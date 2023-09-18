@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2187" viewBox="0 0 50 50" version="1.0">
+  <g id="layer1">
+    <g id="g4458" stroke="#000" fill="none">
+      <path id="path3201" stroke-width="2.25" d="m46.376 25c0 10.905-9.5701 19.746-21.376 19.746-11.805 0-21.376-8.841-21.376-19.746s9.5701-19.746 21.376-19.746c11.805 0 21.376 8.8406 21.376 19.746z"/>
+      <g id="g4448" stroke-width=".9" transform="translate(.1875 -.007368)">
+        <path id="rect4327" d="m13.731 12.511h22.163v24.993h-22.163z"/>
+        <path id="rect4345" d="m16.062 15.719v2.4375h17.5v-2.4375h-17.5zm0.15625 6.5625h17.188-17.188zm0 2.2188h17.188-17.188zm0 2.2188h17.188-17.188zm0 2.2188h17.188-17.188zm0 2.1875h17.188-17.188zm0 2.2188h17.188-17.188z"/>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Text icon</dc:title>
+        <dc:date>2013-10-06T14:41:36</dc:date>
+        <dc:description/>
+        <dc:source>http://openclipart.org/detail/184621/text-icon-by-ousia-184621</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ousia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>text</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

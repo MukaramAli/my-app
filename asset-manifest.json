@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MukaramAli/my-app/static/css/main.1e313b3f.css",
+    "main.js": "/MukaramAli/my-app/static/js/main.d290a581.js",
+    "static/js/787.d3befce1.chunk.js": "/MukaramAli/my-app/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/MukaramAli/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MukaramAli/my-app/index.html",
+    "main.1e313b3f.css.map": "/MukaramAli/my-app/static/css/main.1e313b3f.css.map",
+    "main.d290a581.js.map": "/MukaramAli/my-app/static/js/main.d290a581.js.map",
+    "787.d3befce1.chunk.js.map": "/MukaramAli/my-app/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e313b3f.css",
+    "static/js/main.d290a581.js"
+  ]
+}
